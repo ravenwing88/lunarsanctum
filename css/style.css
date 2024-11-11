@@ -2,12 +2,39 @@
   background-color: black;
   color: silver;
   font-family: "EB Garamond", serif;
+  /* border: 1px solid red; */
+}
+
+body {
+  padding: 8%;
+  padding-top: 3%;
+}
+
+main {
+  padding: 1%;
 }
 
 h1 {
   font-family: "Eagle Lake", serif;
 }
 
+nav {
+  float: right;
+  padding-right: 15%;
+}
+
 nav li {
   list-style: none;
+}
+
+.subtitle {
+  margin-top: 5px;
+}
+
+.blogpost {
+  width: 75%;
+}
+
+.blogpost p {
+  padding: 0 1%;
 }
