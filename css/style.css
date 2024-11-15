@@ -20,7 +20,7 @@ h1 {
 
 nav {
   float: right;
-  padding-right: 15%;
+  padding-right: 10%;
 }
 
 nav li {
@@ -32,9 +32,6 @@ nav li {
 }
 
 .blogpost {
-  width: 75%;
-}
-
-.blogpost p {
-  padding: 0 1%;
+  width: 80%;
+  height: 800px;
 }
