@@ -14,24 +14,69 @@ main {
   padding: 1%;
 }
 
-h1 {
+h1, h2 {
   font-family: "Eagle Lake", serif;
 }
 
 nav {
   float: right;
-  padding-right: 10%;
+  margin-right: 10%;
 }
 
 nav li {
   list-style: none;
 }
 
+p {
+  margin-block-start: .75em;
+  margin-block-end: .75em;
+}
+
+.anim-logo {
+  display: inline;
+  float: right;
+  margin-right: 10%;
+}
+
 .subtitle {
   margin-top: 5px;
 }
 
+.page-title {
+
+}
+
+/* home page */
+
 .blogpost {
   width: 80%;
   height: 800px;
+}
+
+/* scenarios page */
+
+.scen-release {
+  padding: 5px 10px 20px;
+}
+
+.scen-title {
+  display: flex;
+  align-items: center;
+}
+
+.scen-icon {
+  scale: 80%;
+  padding-right: 5px;
+}
+
+.scen-desc {
+  padding: 0 20px;
+}
+
+.scen-subdiv {
+  padding: 2px 0;
+}
+
+.dl-scen {
+  color: darkred;
 }
