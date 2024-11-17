@@ -80,3 +80,21 @@ p {
 .dl-scen {
   color: darkred;
 }
+
+/* graphics page */
+
+.graphic-type {
+  padding: 5px 10px 20px;
+}
+
+.graphic-sheet {
+
+}
+
+/* scripts page */
+
+.script-type {
+  padding: 5px 10px 20px;
+}
+
+/* resources page */
