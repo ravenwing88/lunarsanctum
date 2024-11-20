@@ -87,8 +87,8 @@ p {
   padding: 5px 10px 20px;
 }
 
-.graphic-sheet {
-
+.graphic-sheet img {
+  margin: 1px;
 }
 
 /* scripts page */
